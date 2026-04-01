@@ -1,5 +1,0 @@
-ques1:- http://20.197.51.6
-
-ques2:- http://20.197.51.6
-
-ques3:- https://vanshicastorage.z29.web.core.windows.net/#
